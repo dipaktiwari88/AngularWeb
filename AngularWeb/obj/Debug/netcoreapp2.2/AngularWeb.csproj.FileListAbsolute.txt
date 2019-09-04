@@ -1,0 +1,14 @@
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\bin\Debug\netcoreapp2.2\AngularWeb.deps.json
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\bin\Debug\netcoreapp2.2\AngularWeb.runtimeconfig.json
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\bin\Debug\netcoreapp2.2\AngularWeb.runtimeconfig.dev.json
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\bin\Debug\netcoreapp2.2\AngularWeb.dll
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\bin\Debug\netcoreapp2.2\AngularWeb.pdb
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.csprojAssemblyReference.cache
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.csproj.CoreCompileInputs.cache
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.RazorAssemblyInfo.cache
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.RazorAssemblyInfo.cs
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.AssemblyInfoInputs.cache
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.AssemblyInfo.cs
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.RazorTargetAssemblyInfo.cache
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.dll
+C:\Users\ab53199\source\repos\AngularWeb\AngularWeb\obj\Debug\netcoreapp2.2\AngularWeb.pdb

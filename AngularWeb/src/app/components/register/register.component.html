@@ -1,0 +1,26 @@
+<div class="container bg-light">
+  <h1 class="text-center">REGISTER SECTION</h1>
+  <div class="row">
+    <div class="col-6">
+      <form>
+        <div class="form-group">
+          <label>ID</label>
+          <input id="uId" type="text" class="form-control" placeholder="ID" [(ngModel)]="contact.id" name="id" />
+
+          <label>NAME</label>
+          <input id="uName" type="text" class="form-control" placeholder="Name" [(ngModel)]="contact.name" name="name" />
+
+          <label>ADDRESS</label>
+          <input id="uAddress" type="text" class="form-control" placeholder="Address" [(ngModel)]="contact.address" name="address" />
+
+          <label>CONTACT</label>
+          <input id="uContact" type="text" class="form-control" placeholder="Contact" [(ngModel)]="contact.contact" name="contact" />
+
+          <label>EMAIL</label>
+          <input id="uEmail" type="email" class="form-control" placeholder="Email" [(ngModel)]="contact.email" name="email" />
+        </div>
+      </form>
+      <input type="submit" value="Register" class="btn btn-success mb-5" (click)="createContact()" />
+    </div>
+  </div>
+</div>

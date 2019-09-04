@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWeb", "AngularWeb\AngularWeb.csproj", "{957870D9-5739-47D6-AA51-680F55BDC627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957870D9-5739-47D6-AA51-680F55BDC627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957870D9-5739-47D6-AA51-680F55BDC627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957870D9-5739-47D6-AA51-680F55BDC627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957870D9-5739-47D6-AA51-680F55BDC627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AC03882-E213-4A1B-9E3C-9500E47DDEC5}
+	EndGlobalSection
+EndGlobal
